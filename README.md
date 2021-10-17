@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-- ℹ️ I'm a software engineer currently working at @upside-tech. 
+- ℹ️ I'm a Staff Engineer currently working at Pollen (@streetteam). 
 - 🎓 I graduated in Computer Science from University of Cambridge
 - 🌐 My personal site: https://amirha.com
 - 📝 You can contact me on [Linkedin](https://www.linkedin.com/in/amirhossein-andohkosh/)
